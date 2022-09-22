@@ -73,7 +73,5 @@ public class ConverterPanel extends JPanel implements ActionListener{
                 amount.setText("Must be a number!");
             }  
         }
-        
     }
-
 }
